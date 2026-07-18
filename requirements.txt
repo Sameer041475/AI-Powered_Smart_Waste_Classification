@@ -4,4 +4,6 @@ torch
 torchvision
 opencv-python-headless
 numpy
-pillow
+git add requirements.txt
+git commit -m "Update requirements"
+git pushw
