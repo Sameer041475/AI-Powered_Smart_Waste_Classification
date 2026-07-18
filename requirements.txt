@@ -1,7 +1,7 @@
 streamlit
-ultralytics
+ultralytics==8.4.95
 torch
 torchvision
-opencv-python
-pillow
+opencv-python-headless
 numpy
+pillow
